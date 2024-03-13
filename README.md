@@ -1,13 +1,12 @@
 
 ```markdown
-# Student Performance Predictor
+## Student Performance Predictor
 
 ## Overview
 This project predicts student performance in exams based on various factors such as gender, ethnicity, parental education, lunch type, and test preparation completion.
 
 ## Installation
 1. Clone the repository:
-```bash
 git clone https://github.com/Manjesh501/Student-Performance-Predictor.git
 ```
 2. Install dependencies:
