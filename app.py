@@ -6,7 +6,6 @@ from src.components.data_transformation import DataTransformationConfig,DataTran
 from src.components.model_trainer import ModelTrainerConfig,ModelTrainer
 import sys
 
-
 if __name__=="__main__":
     logging.info("The execution has started")
 
